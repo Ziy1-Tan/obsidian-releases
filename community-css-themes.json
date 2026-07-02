@@ -4229,5 +4229,12 @@
     "repo": "joshua-walls/night-ridge-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Claude-Like",
+    "author": "Ziy1-Tan",
+    "repo": "Ziy1-Tan/obsidian-claude-theme",
+    "screenshot": "images/dark.png",
+    "modes": ["dark", "light"]
   }
 ]
